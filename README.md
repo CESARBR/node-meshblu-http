@@ -1,21 +1,19 @@
 # Meshblu HTTP
 A node package to use the Meshblu HTTP API...
 
-[![Build Status](https://travis-ci.org/octoblu/node-meshblu-http.svg?branch=master)](https://travis-ci.org/octoblu/node-meshblu-http)
-[![Code Climate](https://codeclimate.com/github/octoblu/node-meshblu-http/badges/gpa.svg)](https://codeclimate.com/github/octoblu/node-meshblu-http)
-[![Test Coverage](https://codeclimate.com/github/octoblu/node-meshblu-http/badges/coverage.svg)](https://codeclimate.com/github/octoblu/node-meshblu-http)
-[![npm version](https://badge.fury.io/js/meshblu-http.svg)](http://badge.fury.io/js/meshblu-http)
-[![Gitter](https://badges.gitter.im/octoblu/help.svg)](https://gitter.im/octoblu/help)
+[![Build Status](https://travis-ci.org/CESARBR/node-meshblu-http.svg?branch=master)](https://travis-ci.org/CESARBR/node-meshblu-http)
+(https://codeclimate.com/github/octoblu/node-meshblu-http)
+[![npm version](https://badge.fury.io/js/%40cesarbr%2Fmeshblu-http.svg)](https://badge.fury.io/js/%40cesarbr%2Fmeshblu-http.svg)
 
 # Usage
 ### Install:
 ```shell
-npm install --save meshblu-http
+npm install --save @cesarbr/meshblu-http
 ```
 
 ### Use:
 ```javascript
-var MeshbluHttp = require('meshblu-http');
+var MeshbluHttp = require('@cesarbr/meshblu-http');
 
 var meshbluHttp = new MeshbluHttp();
 
