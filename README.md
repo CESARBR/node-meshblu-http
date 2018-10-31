@@ -2,7 +2,6 @@
 A node package to use the Meshblu HTTP API...
 
 [![Build Status](https://travis-ci.org/CESARBR/node-meshblu-http.svg?branch=master)](https://travis-ci.org/CESARBR/node-meshblu-http)
-(https://codeclimate.com/github/octoblu/node-meshblu-http)
 [![npm version](https://badge.fury.io/js/%40cesarbr%2Fmeshblu-http.svg)](https://badge.fury.io/js/%40cesarbr%2Fmeshblu-http.svg)
 
 # Usage
