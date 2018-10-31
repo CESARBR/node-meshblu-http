@@ -1,5 +1,5 @@
 {
-  "name": "meshblu-http",
+  "name": "@cesarbr/meshblu-http",
   "version": "10.2.1",
   "description": "Meshblu HTTP API",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/octoblu/node-meshblu-http.git"
+    "url": "https://github.com/CESARBR/node-meshblu-http.git"
   },
   "keywords": [
     "meshblu",
@@ -21,9 +21,9 @@
   "author": "Octoblu <dev@octoblu.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/octoblu/node-meshblu-http/issues"
+    "url": "https://github.com/CESARBR/node-meshblu-http/issues"
   },
-  "homepage": "https://github.com/octoblu/node-meshblu-http",
+  "homepage": "https://github.com/CESARBR/node-meshblu-http",
   "devDependencies": {
     "chai": "^4.0.1",
     "coffee-script": "^1.12.6",
